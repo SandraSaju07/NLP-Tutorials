@@ -9,4 +9,4 @@ venv/
 .idea/
 .vscode/
 *.log
-/Data/
+Data/
